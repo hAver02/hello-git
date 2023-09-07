@@ -1,7 +1,6 @@
 
 console.log("hello git 2");
 
-
-console.log('estmaos haciendo unos cambios ');
-
+console.log('haciendo otros cambios');
+console.log('para el commit 5');
 
